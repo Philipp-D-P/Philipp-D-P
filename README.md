@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning Python, JavaScript
+- 🌱 I’m currently learning Python, JavaScript & SQL
 
 
 
