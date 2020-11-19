@@ -15,6 +15,9 @@
 <img align="left" alt="Python" width="26px" src="https://img.utdstc.com/icons/python.png:200" />
 <img align="left" alt="R" width="26px" src="https://www.r-project.org/Rlogo.png" />
 <img align="left" alt="R-Studio" width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHz1k1JGDxm2N6tpZeb-0OgDqVg-RR1xZkvQ&usqp=CAU" />
+<img align="left" alt="Stata" width="60px" src="https://www.stata.com/includes/images/stata-logo-blue.svg" />
+
+
 
 
 <!--
