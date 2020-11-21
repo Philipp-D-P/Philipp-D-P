@@ -2,8 +2,9 @@
 
 
 - 🌱 I’m currently learning Python, JavaScript & SQL
+- 🔭 I'm interested in Computational Social Science
 
-#### Languages and Tools:
+### Languages and Tools:
 
 <img align="left" alt="Python" width="30px" src="https://img.utdstc.com/icons/python.png:200" />
 <img align="left" alt="R" width="30px" src="https://www.r-project.org/Rlogo.png" />
