@@ -12,9 +12,9 @@
 <img align="left" alt="R" width="30px" src="https://www.r-project.org/Rlogo.png" />
 <img align="left" alt="R-Studio" width="68px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHz1k1JGDxm2N6tpZeb-0OgDqVg-RR1xZkvQ&usqp=CAU" />
 <img align="left" alt="Stata" width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzQRXakqMWMaZJCMG90rggwIzYoagZURqHkw&usqp=CAU" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="PHP7" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZmEm6c_Q3i5cROP_iVpowTbtke-6TTDXIPA&usqp=CAU" />
+<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="PHP7" width="24px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZmEm6c_Q3i5cROP_iVpowTbtke-6TTDXIPA&usqp=CAU" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Git" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
