@@ -9,7 +9,8 @@
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="30px" src="https://img.utdstc.com/icons/python.png:200" />
-<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1024px-PyCharm_Logo.svg.png" />
+<img align="left" alt="Pycharm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1024px-PyCharm_Logo.svg.png" />
+<img align="left" alt="VSC" width="30px" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" />
 <img align="left" alt="R" width="30px" src="https://www.r-project.org/Rlogo.png" />
 <img align="left" alt="R-Studio" width="68px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHz1k1JGDxm2N6tpZeb-0OgDqVg-RR1xZkvQ&usqp=CAU" />
 <img align="left" alt="Stata" width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzQRXakqMWMaZJCMG90rggwIzYoagZURqHkw&usqp=CAU" />
