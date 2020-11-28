@@ -4,6 +4,8 @@
 - 🌱 currently learning Python, JavaScript, PHP & SQL
 - 🔭 interested in Computational Social Science
 
+<!-- add link to interesting projects -->
+
 
 ### Languages and Tools:
 
