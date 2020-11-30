@@ -2,7 +2,7 @@
 
 
 - 🌱 currently learning Python, JavaScript, PHP & SQL
-- 🔭 interested in Computational Social Science
+- 🔭 interested in Computational Social Science & Data Science in general
 
 <!-- add link to interesting projects -->
 
