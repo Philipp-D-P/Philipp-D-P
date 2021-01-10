@@ -13,7 +13,7 @@
 <img align="left" alt="Pycharm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1024px-PyCharm_Logo.svg.png" />
 <img align="left" alt="VSC" width="26px" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" />
 <img align="left" alt="R" width="32px" src="https://www.r-project.org/Rlogo.png" />
-<img align="left" alt="R-Studio" width="68px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHz1k1JGDxm2N6tpZeb-0OgDqVg-RR1xZkvQ&usqp=CAU" />
+<img align="left" alt="R-Studio" width="70px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHz1k1JGDxm2N6tpZeb-0OgDqVg-RR1xZkvQ&usqp=CAU" />
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
