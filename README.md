@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 currently learning Python, JavaScript, PHP & SQL
+- 🌱 currently learning Python, JavaScript & SQL
 - 🔭 interested in Computational Social Science & Data Science in general
 
 <!-- add link to interesting projects -->
