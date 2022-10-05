@@ -2,7 +2,8 @@
 
 
 ### 💫 About Me:
-🔭 interested in Computational Social Science & Data Science <br>🌱 I’m currently learning Python, JavaScript & SQL<br>
+🔭 I’m interested in Computational Social Science & Data Science <br>
+🌱 I’m currently learning Python, JavaScript & SQL<br>
 
 
 ### 💻 Tech Stack:
