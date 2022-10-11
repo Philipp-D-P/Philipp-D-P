@@ -2,7 +2,10 @@
 
 
 ### 💫 About Me
-🔭 I’m interested in Computational Social Science & Data Science <br>
+🔭 I’m interested in: 
+- Computational Social Science 
+- Data Science
+- Web Scraping <br>
 🌱 I’m currently learning Python, JavaScript & SQL <br>
 
 
