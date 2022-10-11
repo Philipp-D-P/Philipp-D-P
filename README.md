@@ -7,7 +7,10 @@
 - Data Science
 - Web Scraping <br>
 
-🌱 I’m currently learning Python, JavaScript & SQL <br>
+🌱 I’m currently learning:
+- Python 
+- JavaScript  
+- SQL <br>
 
 
 ### 💻 Tech Stack
