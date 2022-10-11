@@ -28,7 +28,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) <br> 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
 
-<img src="https://i.redd.it/gfw32lvzfz661.png" alt="My Code Meme" width="400"/>
+<img src="https://i.redd.it/gfw32lvzfz661.png" alt="My Code Meme" width="350"/>
 
 <!--
 - 🔭 I’m currently working on ...
