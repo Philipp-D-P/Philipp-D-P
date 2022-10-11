@@ -30,6 +30,8 @@
 
 ![My Code](https://i.redd.it/gfw32lvzfz661.png)
 
+<img src="https://i.redd.it/gfw32lvzfz661.png" alt="My Code Meme" width="200"/>
+
 <!--
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
