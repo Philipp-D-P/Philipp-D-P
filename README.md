@@ -3,9 +3,12 @@
 
 ### 💫 About Me
 🔭 I’m interested in: 
-- Computational Social Science 
 - Data Science
-- Web Scraping <br>
+- Web Scraping
+- Digitization of Society
+- Quantitative Data Analysis
+- Computational Social Science
+- Critical Data Studies & Ethics of Machine Learning <br>
 
 🌱 I’m currently learning:
 - Python 
