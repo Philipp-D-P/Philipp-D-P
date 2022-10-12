@@ -30,6 +30,8 @@
 
 <img src="https://i.redd.it/gfw32lvzfz661.png" alt="My Code Meme" width="350"/>
 
+[![](https://visitcount.itsvg.in/api?id=Philipp-D-P&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <!--
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
@@ -38,7 +40,5 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-[![](https://visitcount.itsvg.in/api?id=Philipp-D-P&icon=0&color=0)](https://visitcount.itsvg.in)
 
 -->
