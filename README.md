@@ -15,6 +15,9 @@
 - JavaScript  
 - SQL <br>
 
+💬 Favorite Quotes:
+- "Big data is like teenage sex: everyone talks about it, nobody really knows how to do it, everyone thinks everyone else is doing it, so everyone claimsthey are doing it" - Dan Ariely
+
 
 ### 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
