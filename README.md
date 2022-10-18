@@ -36,6 +36,7 @@
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
 
 ---
+### 😂 Memes
 <img src="https://i.redd.it/gfw32lvzfz661.png" alt="My Code Meme" width="350"/>
 
 ---
