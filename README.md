@@ -18,7 +18,7 @@
 💬 Favorite Quotes:
 - "Big data is like teenage sex: everyone talks about it, nobody really knows how to do it, <br>everyone thinks everyone else is doing it, so everyone claims they are doing it" - Dan Ariely
 
-
+---
 ### 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
