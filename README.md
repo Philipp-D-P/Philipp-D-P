@@ -34,8 +34,10 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) <br> 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
+
 ---
 <img src="https://i.redd.it/gfw32lvzfz661.png" alt="My Code Meme" width="350"/>
+
 ---
 ### 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Philipp-D-P&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br><br>
