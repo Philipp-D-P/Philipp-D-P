@@ -7,6 +7,7 @@
 - Digitization of Society
 - Quantitative Data Analysis
 - Computational Social Science
+- Researching political extremism
 - Critical Data Studies & Ethics of Machine Learning <br>
 
 🌱 I’m currently learning:
