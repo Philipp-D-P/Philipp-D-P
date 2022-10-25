@@ -1,6 +1,9 @@
 ### 👋 Hi there 
 ---
 ### 💫 About Me
+- Degree in sociology (B. A.)
+- Volunteer at [CorrelAid Bremen9](https://correlaid.org/correlaidx/bremen/)
+
 🔭 I’m interested in: 
 - Data Science
 - Web Scraping
