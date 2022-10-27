@@ -1,7 +1,7 @@
 ### 👋 Hi there 
 ---
 ### 💫 About Me
-- Degree in sociology (B. A.)
+- Degree in Sociology (B. A.)
 - Volunteer at [CorrelAid Bremen](https://correlaid.org/correlaidx/bremen/)
 
 🔭 I’m interested in: 
@@ -10,7 +10,7 @@
 - Digitization of Society
 - Quantitative Data Analysis
 - Computational Social Science
-- Researching political extremism
+- Researching Political Extremism
 - Critical Data Studies & Ethics of Machine Learning <br>
 
 🌱 I’m currently learning:
