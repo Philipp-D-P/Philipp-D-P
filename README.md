@@ -11,6 +11,7 @@
 - Quantitative Data Analysis
 - Computational Social Science
 - Researching Political Extremism
+- Computer Vision & Image Recognition
 - Critical Data Studies & Ethics of Machine Learning <br>
 
 🌱 I’m currently learning:
