@@ -2,6 +2,7 @@
 ---
 ### 💫 About Me
 - Degree in Sociology (B. A.)
+- Master Student in Sociology and Social Research (M. A.)
 - Volunteer at [CorrelAid Bremen](https://correlaid.org/correlaidx/bremen/)
 
 🔭 I’m interested in: 
