@@ -3,7 +3,7 @@
 ### 💫 About Me
 - Degree in Sociology (B. A.)
 - Master Student in Sociology and Social Research (M. A.)
-- Volunteer Member of the Organizing Team at [CorrelAid Bremen](https://correlaid.org/correlaidx/bremen/)
+- Volunteer and Member of the Organizing Team at [CorrelAid Bremen](https://correlaid.org/correlaidx/bremen/)
 
 🔭 I’m interested in: 
 - Data Science
